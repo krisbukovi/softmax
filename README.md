@@ -1,2 +1,2 @@
 # softmax
-softmax function
+softmax function in python
