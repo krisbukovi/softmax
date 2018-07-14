@@ -1,0 +1,2 @@
+# softmax
+softmax function
